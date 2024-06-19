@@ -1,0 +1,26 @@
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    border: 1px solid #afacac;
+    width: calc(15% - 25px);
+    padding: 25px;
+    background-color: #afacac;
+}
+
+.text:hover {
+    background-color: rgb(155, 155, 155);
+    transform: scale(1.01);
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-decoration: none
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+}
